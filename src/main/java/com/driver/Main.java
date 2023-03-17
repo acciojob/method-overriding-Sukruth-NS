@@ -9,7 +9,6 @@ class A {
 
 // Step 2
 class B extends A {
-    // Step 4
     @Override
     public String meth() {
         return "Method is overridden in Extended class B";
